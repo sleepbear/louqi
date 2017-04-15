@@ -1,0 +1,2 @@
+# louqi
+my first repository
